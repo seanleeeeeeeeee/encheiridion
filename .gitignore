@@ -1,0 +1,10 @@
+# ESP-IDF Build directories
+build/
+sdkconfig
+sdkconfig.old
+
+# IDE configurations
+.vscode/
+.idea/
+.eclipse/
+
